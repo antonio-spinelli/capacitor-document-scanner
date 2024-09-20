@@ -12,10 +12,10 @@
     "build": "tsc && rollup -c rollup.config.mjs"
   },
   "dependencies": {
-    "@capacitor/android": "^5.0.0",
+    "@capacitor/android": "^6.0.0",
     "@capacitor/camera": "latest",
     "@capacitor/core": "latest",
-    "@capacitor/ios": "^5.0.0",
+    "@capacitor/ios": "^6.0.0",
     "@capacitor/splash-screen": "latest",
     "capacitor-document-scanner": "file:.."
   },
